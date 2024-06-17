@@ -58,4 +58,4 @@ Insights from the Dashboard -
    b) Sales Executive - 57
    c) Research Scientist - 47
    d) Sales Representative - 33
-12) From Attrition by Job Satisfaction, Attrition Count is given through the matrix where the lowest job satisfaction level (1) is given maxmimum in case of Laboratory Technicians where the Attrition Count is 62 in total.
+12) From Attrition by Job Satisfaction, Attrition Count is given through the matrix where the lowest job satisfaction level (1) is given maximum in case of Laboratory Technicians where the Attrition Count is 62 in total.
